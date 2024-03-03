@@ -3,11 +3,11 @@
   <title>这个年纪你怎么睡的着呢？</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://korchan328.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://korchan328.github.io/"/>
   <updated>2024-03-03T10:20:24.954Z</updated>
-  <id>http://example.com/</id>
+  <id>https://korchan328.github.io/</id>
   
   <author>
     <name>KorChan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/03/03/hello-world/"/>
-    <id>http://example.com/2024/03/03/hello-world/</id>
+    <link href="https://korchan328.github.io/2024/03/03/hello-world/"/>
+    <id>https://korchan328.github.io/2024/03/03/hello-world/</id>
     <published>2024-03-03T10:20:24.954Z</published>
     <updated>2024-03-03T10:20:24.954Z</updated>
     
