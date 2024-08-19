@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>苦逼保研鼠鼠</title>
+  <title>KorChan的个人博客</title>
   
   
   <link href="http://korchan328.github.io/atom.xml" rel="self"/>
   
   <link href="http://korchan328.github.io/"/>
-  <updated>2024-03-03T14:36:23.951Z</updated>
+  <updated>2024-03-05T13:42:47.058Z</updated>
   <id>http://korchan328.github.io/</id>
   
   <author>
@@ -17,47 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Typora编写过程中YAML Exception问题解决方案</title>
-    <link href="http://korchan328.github.io/2024/03/03/Typora%E7%BC%96%E5%86%99%E8%BF%87%E7%A8%8B%E4%B8%ADYAML-Exception%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    <id>http://korchan328.github.io/2024/03/03/Typora%E7%BC%96%E5%86%99%E8%BF%87%E7%A8%8B%E4%B8%ADYAML-Exception%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
-    <published>2024-03-03T14:34:01.000Z</published>
-    <updated>2024-03-03T14:36:23.951Z</updated>
+    <title>gpt4开通</title>
+    <link href="http://korchan328.github.io/2024/03/05/gpt4%E5%BC%80%E9%80%9A/"/>
+    <id>http://korchan328.github.io/2024/03/05/gpt4%E5%BC%80%E9%80%9A/</id>
+    <published>2024-03-05T13:34:53.000Z</published>
+    <updated>2024-03-05T13:42:47.058Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="出现原因"><a href="#出现原因" class="headerlink" title="出现原因"></a>出现原因</h1><p>哈哈哈哈，单纯的tags后面忘记加空格了</p><p>👽[doge]</p><p>一天更新两篇，不亏是我</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="前提！！！"><a href="#前提！！！" class="headerlink" title="前提！！！"></a>前提！！！</h1><p>需要有尼日利亚银行卡，推荐购买chipper（20多刀，不过还能开通其他低价会员），就能开通一张尼日利亚USD的VISA卡。</p><h1 id="具体操作"><a href="#具体操作" class="headerlink" title="具体操作"></a>具体操作</h1><h2 id="第一步-注册苹果账号（注册不用翻墙，添加付款方式需要代理）"><a href="#第一步-注册苹果账号（注册不用翻墙，添加付款方式需要代理）" class="headerlink" title="第一步 注册苹果账号（注册不用翻墙，添加付款方式需要代理）"></a>第一步 注册苹果账号（注册不用翻墙，添加付款方式需要代理）</h2><h3 id="登录https-appleid-apple-com-account"><a href="#登录https-appleid-apple-com-account" class="headerlink" title="登录https://appleid.apple.com/account"></a>登录<a href="https://appleid.apple.com/account">https://appleid.apple.com/account</a></h3><h3 id="开始注册苹果账号，国家和地区选择【尼日利亚】；"><a href="#开始注册苹果账号，国家和地区选择【尼日利亚】；" class="headerlink" title="开始注册苹果账号，国家和地区选择【尼日利亚】；"></a>开始注册苹果账号，国家和地区选择【尼日利亚】；</h3><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image_1_post_E2Ga97722.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-1_1_post_DhMrT31806.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p><strong>国家地区一定选择Nigeria</strong></p><h3 id="注册成功后，自动跳转到刚才注册好的Apple-ID；"><a href="#注册成功后，自动跳转到刚才注册好的Apple-ID；" class="headerlink" title="注册成功后，自动跳转到刚才注册好的Apple ID；"></a>注册成功后，自动跳转到刚才注册好的Apple ID；</h3><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-2_1_post_1myB211074.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><h3 id="点击付款方式，再点击添加付款方式"><a href="#点击付款方式，再点击添加付款方式" class="headerlink" title="点击付款方式，再点击添加付款方式"></a>点击付款方式，再点击添加付款方式</h3><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-3_1_post_8YkqS47309.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p>选择信用卡或借记卡</p><h3 id="填写银行卡和地址信息，我以chipper钱包举例"><a href="#填写银行卡和地址信息，我以chipper钱包举例" class="headerlink" title="填写银行卡和地址信息，我以chipper钱包举例"></a>填写银行卡和地址信息，我以chipper钱包举例</h3><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-4_1_post_wrR9N42985.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p>按顺序填入卡信息</p><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-5_1_post_R7Jdg6360.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p>按顺序填入地址信息（不严格检查，邮编对就行，电话号码填自己的就行）</p><h2 id="第二步-登录苹果账号并下载ChatGPT并购买"><a href="#第二步-登录苹果账号并下载ChatGPT并购买" class="headerlink" title="第二步 登录苹果账号并下载ChatGPT并购买"></a>第二步 登录苹果账号并下载ChatGPT并购买</h2><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-6_1_post_LJIBz28346.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p>用手机登录你刚刚注册的尼日利亚区账号 然后在apple store搜索“<strong>chatgpt</strong>” 你们显示的应该是下载，下载后打开</p><p>打开后就是右边的界面</p><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/11c66f565e60629e0c26ecf0d832ae8_1_post_pq3vr3100.jpg" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><h2 id="第三步-购买PLUS会员"><a href="#第三步-购买PLUS会员" class="headerlink" title="第三步 购买PLUS会员"></a>第三步 购买PLUS会员</h2><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-7_1_post_mjpNu18891.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><ol><li>如左图所示点击顶上的Get Plus</li><li>进入右边的界面</li><li>点击Upgrade to Plus然后看到需要₦9900</li></ol><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-8_1_post_5denn28329.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-9_1_post_kGzRV14429.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><ol><li>点击订阅即可订阅成功</li><li>查看最终结果，只扣了$6.28，也就是46元人民币差不多</li></ol><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-10_1_post_TnVCO9024.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol><li><h2 id="绑定付款方式代理注意IP欺诈度度-检测链接"><a href="#绑定付款方式代理注意IP欺诈度度-检测链接" class="headerlink" title="绑定付款方式代理注意IP欺诈度度 检测链接"></a>绑定付款方式代理注意IP欺诈度度 <a href="https://scamalytics.com/">检测链接</a></h2></li></ol><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-11_1_post_gE77444369.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p><img src="/../imgs/gpt4%E5%BC%80%E9%80%9A/image-12_1_post_uqhac11154.png" alt="【ChatGPT】如何开通尼日利亚特殊渠道ChatGPT4.0 plus（成本大约46人民币）"></p><p>进入页面后往下拖动，有个check IP，点击就可以检查，分数越低越好</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;出现原因&quot;&gt;&lt;a href=&quot;#出现原因&quot; class=&quot;headerlink&quot; title=&quot;出现原因&quot;&gt;&lt;/a&gt;出现原因&lt;/h1&gt;&lt;p&gt;哈哈哈哈，单纯的tags后面忘记加空格了&lt;/p&gt;
-&lt;p&gt;👽[doge]&lt;/p&gt;
-&lt;p&gt;一天更新两篇，不亏是我&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;前提！！！&quot;&gt;&lt;a href=&quot;#前提！！！&quot; class=&quot;headerlink&quot; title=&quot;前提！！！&quot;&gt;&lt;/a&gt;前提！！！&lt;/h1&gt;&lt;p&gt;需要有尼日利亚银行卡，推荐购买chipper（20多刀，不过还能开通其他低价会员），就能开通一张尼日利亚USD的VI</summary>
       
     
     
     
     
-    <category term="第二篇博客" scheme="http://korchan328.github.io/tags/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://korchan328.github.io/2024/03/03/hello-world/"/>
-    <id>http://korchan328.github.io/2024/03/03/hello-world/</id>
-    <published>2024-03-03T10:20:24.954Z</published>
-    <updated>2024-03-03T10:20:24.954Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
+    <category term="有点兴奋" scheme="http://korchan328.github.io/tags/%E6%9C%89%E7%82%B9%E5%85%B4%E5%A5%8B/"/>
     
   </entry>
   

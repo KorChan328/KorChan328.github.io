@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://korchan328.github.io/2024/03/03/Typora%E7%BC%96%E5%86%99%E8%BF%87%E7%A8%8B%E4%B8%ADYAML-Exception%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <loc>http://korchan328.github.io/2024/03/05/gpt4%E5%BC%80%E9%80%9A/</loc>
     
-    <lastmod>2024-03-03</lastmod>
+    <lastmod>2024-03-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -28,27 +28,18 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://korchan328.github.io/2024/03/03/hello-world/</loc>
-    
-    <lastmod>2024-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://korchan328.github.io/</loc>
-    <lastmod>2024-03-25</lastmod>
+    <lastmod>2024-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://korchan328.github.io/tags/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2024-03-25</lastmod>
+    <loc>http://korchan328.github.io/tags/%E6%9C%89%E7%82%B9%E5%85%B4%E5%A5%8B/</loc>
+    <lastmod>2024-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
